@@ -1,4 +1,3 @@
-<note>This page is automatically generated from the source code FanoScheme.m by a prototype MAGMA documentation generator created by Ahmad Mokhtar.</note>
 # FanoScheme
 ![Static Badge](https://img.shields.io/badge/MAGMA_Package-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/Author-Ahmad_Mokhtar-blue)
