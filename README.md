@@ -1,24 +1,5 @@
-<style>
-intrinsic{
-    font-family: monospace;
-    font-size: 1.2em;
-    font-weight: normal;
-    color: #12416C;
-}
-note{
-    font-size: .9em;
-    font-weight: normal;
-    color: red;
-}
-blockquote{
-  border-left: 5px solid #eee;
-  padding-left: 10px;
-  margin-left: 2em;
-  color: black;
-}
-</style>
 <note>This page is automatically generated from the source code FanoScheme.m by a prototype MAGMA documentation generator created by Ahmad Mokhtar.</note>
-#FanoScheme
+# FanoScheme
 ![Static Badge](https://img.shields.io/badge/MAGMA_Package-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/Author-Ahmad_Mokhtar-blue)
 ![Static Badge](https://img.shields.io/badge/Updated-Feb_26,_2024-blue)
